@@ -1,0 +1,1 @@
+STM_SPI_ANY_LIB
