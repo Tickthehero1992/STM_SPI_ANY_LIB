@@ -10,8 +10,8 @@ CSS_ON;
 speed.
 
 
-for initializing SPI Use fonction: 
-spi_own_init(SPI_OWN_PINS,_Bool CSS_ON, uint16_t Speed_of_SPT)
-for trancieve/recieve message Use function spi_own_trans_recv(SPI_OWN_PINS, uint8_t BYTE) - this function put 1 Byte, and get 1 Byte, if u use CSS,
-it will latch after 1 byte.
+for initializing SPI Use function: 
+spi_own_init(SPI_OWN_PINS,_Bool CSS_ON, uint16_t Speed_of_SPT).
+for trancieve/recieve message Use function: spi_own_trans_recv(SPI_OWN_PINS, uint8_t BYTE) - this function put 1 Byte, and get 1 Byte, if u use CSS,
+it will latch after 1 byte. 
 
